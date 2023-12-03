@@ -2,6 +2,19 @@
 
 \usepackage[english]{babel}
 \usepackage{subfiles}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{subcaption}
+\hypersetup{
+	linktoc=all,     %set to all if you want both sections and subsections linked
+}
+\hypersetup{
+	colorlinks   = true, %Colours links instead of ugly boxes
+	linkcolor= black
+}
 
 \title{Global Challenges for a Sustainable Society}
 \author{Kobe Michiels}
@@ -19,18 +32,33 @@
 
 This is a summary of the MOOC Global Challenges for a Sustainable Society, based on the provided study guides.
 
+\setcounter{tocdepth}{1}
+\tableofcontents
+\newpage
 \subfile{chapters/climate}
+\newpage
 \subfile{chapters/biodiversity}
+\newpage
 \subfile{chapters/demography}
+\newpage
 \subfile{chapters/energy}
+\newpage
 \subfile{chapters/raw_materials_and_circular_economy}
+\newpage
 \subfile{chapters/food_security}
+\newpage
 \subfile{chapters/chapter7}
+\newpage
 \subfile{chapters/buildings}
+\newpage
 \subfile{chapters/mobility}
+\newpage
 \subfile{chapters/economics_for_sustainability}
+\newpage
 \subfile{chapters/social_and_economic_inequality}
+\newpage
 \subfile{chapters/human_behaviour}
+\newpage
 \subfile{chapters/global_governance}
 
 \end{document}
