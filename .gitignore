@@ -1,7 +1,4 @@
-summary.pdf
-biodiversity.pdf
-demography.pdf
-chapter7.pdf
+*.pdf
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
