@@ -1,8 +1,13 @@
-# global-challenges
+# Global-challenges
 ## Author
 
 - **Name:** [Kobe Michiels]
 - **GitHub:** [michielskobe]
+
+## Contributors
+
+- [Wout Lyen](https://github.com/woutlyen)
+- [Robbe Decapmaker](https://github.com/debber1)
 
 ## Description
 This is a summary of the Massive Open Online Course (MOOC) 'KULeuvenX: Global Challenges for a Sustainable Society', based on the provided study guides part of the Engineering and Sustainability: Philosophy and Global Challenges course of the Bachelor of Engineering Technology at KU Leuven. The summary is created in the TeXstudio LaTeX editor.
