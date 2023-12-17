@@ -1,8 +1,7 @@
 # Global-challenges
 ## Author
 
-- **Name:** [Kobe Michiels]
-- **GitHub:** [michielskobe]
+- [Kobe Michiels](https://github.com/michielskobe)
 
 ## Contributors
 
